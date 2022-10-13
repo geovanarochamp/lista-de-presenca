@@ -6,9 +6,6 @@
 
 Projeto construído na trilha Especializar do Discover / Rocketseat.
 
-
-🔗 [Clique aqui para acessar](https://geovanarochamp.github.io/lista-de-presenca/)
-
 ## 🛠️ Tecnologias
 
 - JavaScript
