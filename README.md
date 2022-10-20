@@ -6,6 +6,8 @@
 
 Projeto construído na trilha Especializar do Discover / Rocketseat.
 
+🔗 [Clique aqui para acessar](https://lista-de-presenca-ivory.vercel.app/)
+
 ## 🛠️ Tecnologias
 
 - JavaScript
